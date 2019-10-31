@@ -1,0 +1,114 @@
+[
+  {
+    "name": "公共分类",
+    "desc": "公共分类",
+    "add_time": 1571296725,
+    "up_time": 1571296725,
+    "index": 0,
+    "list": []
+  },
+  {
+    "name": "业务服务",
+    "desc": null,
+    "add_time": 1572261481,
+    "up_time": 1572261481,
+    "index": 0,
+    "list": []
+  },
+  {
+    "name": "DiseaseRecordController",
+    "desc": "工具上传临时文件夹",
+    "add_time": 1572268096,
+    "up_time": 1572268096,
+    "index": 0,
+    "list": []
+  },
+  {
+    "name": "InpatientRecordController",
+    "desc": "工具上传临时文件夹",
+    "add_time": 1572315989,
+    "up_time": 1572315989,
+    "index": 0,
+    "list": []
+  },
+  {
+    "name": "处方流转",
+    "desc": null,
+    "add_time": 1571725667,
+    "up_time": 1571725667,
+    "index": 1,
+    "list": []
+  },
+  {
+    "name": "电子病历",
+    "desc": null,
+    "add_time": 1571296794,
+    "up_time": 1571296794,
+    "index": 2,
+    "list": []
+  },
+  {
+    "name": "健康档案",
+    "desc": null,
+    "add_time": 1571296802,
+    "up_time": 1571296802,
+    "index": 6,
+    "list": []
+  },
+  {
+    "name": "基础字典",
+    "desc": null,
+    "add_time": 1571298136,
+    "up_time": 1571298136,
+    "index": 7,
+    "list": []
+  },
+  {
+    "name": "LIS中心",
+    "desc": null,
+    "add_time": 1571296855,
+    "up_time": 1571296855,
+    "index": 8,
+    "list": []
+  },
+  {
+    "name": "慢病管理",
+    "desc": null,
+    "add_time": 1571729468,
+    "up_time": 1571729468,
+    "index": 9,
+    "list": []
+  },
+  {
+    "name": "PACS中心",
+    "desc": null,
+    "add_time": 1571296843,
+    "up_time": 1571484630,
+    "index": 10,
+    "list": []
+  },
+  {
+    "name": "心电中心",
+    "desc": null,
+    "add_time": 1571296884,
+    "up_time": 1571296884,
+    "index": 12,
+    "list": []
+  },
+  {
+    "name": "药械（海西）- 搁置",
+    "desc": null,
+    "add_time": 1571296907,
+    "up_time": 1571388727,
+    "index": 13,
+    "list": []
+  },
+  {
+    "name": "医保中心",
+    "desc": null,
+    "add_time": 1571296915,
+    "up_time": 1571296915,
+    "index": 14,
+    "list": []
+  }
+]
